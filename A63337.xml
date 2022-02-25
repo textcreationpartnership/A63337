@@ -1,0 +1,260 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A true account of the proceedings against the criminals, at the assizes of oyer and terminer, and goal-delivery, at the Market-House holden in Nevv-VVindsor for the county of Berks Which began on Monday the 27th. of July, 1685. and ended on Tuesday the 28th of the same: giving a relation of the tryals of divers notorious malefactors, tryed for roberies, felonies, murther, and other crimes and misdemeanors; together, with their names, number: and more particular, an account of such as recieved sentence of death, were burnt in the hand, and ordered to stand in the pillory.</title>
+            <title>True account of the proceedings against the criminals, at the assizes of oyer and terminer, and goal-delivery, at the Market-House holden in New-Windsor for the county of Berks.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1685</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A63337</idno>
+            <idno type="STC">Wing T2392</idno>
+            <idno type="STC">ESTC R213381</idno>
+            <idno type="EEBO-CITATION">99825776</idno>
+            <idno type="PROQUEST">99825776</idno>
+            <idno type="VID">30163</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A63337)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 30163)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2083:17)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A true account of the proceedings against the criminals, at the assizes of oyer and terminer, and goal-delivery, at the Market-House holden in Nevv-VVindsor for the county of Berks Which began on Monday the 27th. of July, 1685. and ended on Tuesday the 28th of the same: giving a relation of the tryals of divers notorious malefactors, tryed for roberies, felonies, murther, and other crimes and misdemeanors; together, with their names, number: and more particular, an account of such as recieved sentence of death, were burnt in the hand, and ordered to stand in the pillory.</title>
+                  <title>True account of the proceedings against the criminals, at the assizes of oyer and terminer, and goal-delivery, at the Market-House holden in New-Windsor for the county of Berks.</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by E. Mallet, in Black-Horse-Alley near Fleet-Bridge,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1685]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Trials --  England --  Early works to 1800.</term>
+               <term>Crime --  England --  Early works to 1800.</term>
+               <term>Criminals --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="account">
+            <pb facs="tcp:30163:1" rendition="simple:additions"/>
+            <head>A TRUE ACCOUNT OF THE PROCEEDINGS Againſt the Criminals, at the <hi>Aſſizes</hi> of <hi>Oyer</hi> and <hi>Terminer,</hi> and Goal-Delivery, at the Market-Houſe Holden in NEW-WINDSOR for the County of <hi>BERKS.</hi>
+            </head>
+            <head type="sub">Which began on <hi>Monday</hi> the 27th. of <hi>July,</hi> 1685. and ended on <hi>Tueſday</hi> the 28th of the ſame: Giving a Relation of the Tryals of divers Notorious Malefactors, tryed for Roberies, Felo<g ref="char:EOLhyphen"/>nies, Murther, and other Crimes and Miſdemeanors; together, with their Names, Num<g ref="char:EOLhyphen"/>ber: And more particular, an Account of ſuch as Recieved Sentence of Death, were Burnt in the Hand, and ordered to ſtand in the Pillory.</head>
+            <p>
+               <hi>Monday,</hi> and <hi>Tueſday,</hi> the 27th. and 28th. of <hi>July,</hi> 1685. be<g ref="char:EOLhyphen"/>ing the days appointed, for holding the <hi>Aſſizes</hi> of <hi>Niſi<g ref="char:EOLhyphen"/>prius, Oyer</hi> and <hi>Terminer,</hi> and Goal-de<g ref="char:EOLhyphen"/>livery for the County of <hi>Berks,</hi> at <hi>New-Windſor:</hi> On the 27th. <hi>Baron Gregory</hi> arrived there, when after the Sermon ended and ſome refreſhment, he paſſed to the <hi>Town-Hall</hi> and cauſed the Com<g ref="char:EOLhyphen"/>miſſion to be read; moſt of the Ju<g ref="char:EOLhyphen"/>ſtices in Commiſſion of the Peace for that County being preſent, which ended, Or<g ref="char:EOLhyphen"/>der was given to adjourn the Court till Seven the next Morning, and that all perſons who had any thing there to do, might give their Attendance at the time aforeſaid. On <hi>Tueſday</hi> the 28th. about Seven in the Morning the Court accord<g ref="char:EOLhyphen"/>ingly Sate upon the <hi>Niſiprius</hi> in the <hi>Mark<g ref="char:EOLhyphen"/>et-Houſe;</hi> intending to try the Crimi<g ref="char:EOLhyphen"/>nals in the <hi>Town-Hall,</hi> but that being found incommodious, by reaſon of its cloſeneſs and the heat of the Weather, the <hi>Market-Houſe</hi> was choſen, likewiſe the Criminals Tryals came on in the Af<g ref="char:EOLhyphen"/>ternoon, being tryed ſucceſſively by two ſeveral Juries, ſworn to try between our Sovereign Lord the King, and the Priſoners they ſhould have in their charge, upon the Tryals of their ſeveral Lives and Deaths, <hi>&amp;c.</hi>
+            </p>
+            <p>
+               <list>
+                  <head>The Names of the Juriors.</head>
+                  <item>
+                     <hi>Robert Lovel.</hi>
+                  </item>
+                  <item>
+                     <hi>Abraham Abſolom.</hi>
+                  </item>
+                  <item>
+                     <hi>John Pointer.</hi>
+                  </item>
+                  <item>
+                     <hi>Richard Cottrel.</hi>
+                  </item>
+                  <item>
+                     <hi>William Alexander.</hi>
+                  </item>
+                  <item>
+                     <hi>Richard Seaford.</hi>
+                  </item>
+                  <item>
+                     <hi>Robert Newbery.</hi>
+                  </item>
+                  <item>
+                     <hi>Thomas Twineroſe.</hi>
+                  </item>
+                  <item>
+                     <hi>Thomas Wilks.</hi>
+                  </item>
+                  <item>
+                     <hi>William Newton.</hi>
+                  </item>
+                  <item>
+                     <hi>Godfry Web.</hi>
+                  </item>
+                  <item>
+                     <hi>John Curſon.</hi>
+                  </item>
+                  <item>
+                     <hi>George Langton.</hi>
+                  </item>
+                  <item>
+                     <hi>Richard Alden.</hi>
+                  </item>
+                  <item>
+                     <hi>William Miles.</hi>
+                  </item>
+                  <item>
+                     <hi>Thomas Piggot.</hi>
+                  </item>
+                  <item>
+                     <hi>Thomas White.</hi>
+                  </item>
+                  <item>
+                     <hi>Richard Weſt.</hi>
+                  </item>
+                  <item>
+                     <hi>John Tickner.</hi>
+                  </item>
+                  <item>
+                     <hi>Williaem Miller.</hi>
+                  </item>
+                  <item>
+                     <hi>Jacob Seward.</hi>
+                  </item>
+                  <item>
+                     <hi>Edward Paſemore.</hi>
+                  </item>
+                  <item>
+                     <hi>Anthony Martin.</hi>
+                  </item>
+                  <item>
+                     <hi>Thomas Gerring.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>The Juriors ſworn, the Proceedings againſt the Priſones, <hi>&amp;c.</hi> were theſe.</p>
+            <p>
+               <hi>John Gowen,</hi> of the Pariſh of <hi>Harwell</hi> in the County of <hi>Berks,</hi> Indicted for ſteal<g ref="char:EOLhyphen"/>ing
+<pb n="2" facs="tcp:30163:2" rendition="simple:additions"/>a Gelding Value Fifty Shillings; a Mare Value Forty Shillings; together with a Colt, valued at Twenty Shillings, from <hi>William Lidiot,</hi> on the 20th. of <hi>June</hi> laſt, who pleading not Guilty to the ſaid In<g ref="char:EOLhyphen"/>dictment; the Witneſſes for the King be<g ref="char:EOLhyphen"/>ing ſworn, depoſed that the Gelding, Mare, and Colt being miſſed out of <hi>Ledi<g ref="char:EOLhyphen"/>ots</hi> Ground, and diligent ſearch made af<g ref="char:EOLhyphen"/>ter them, they were followed by the <hi>Tracks</hi> to the Town of <hi>Harwell,</hi> where they found them in a Stable, faſt tyed with Halters about their Necks, whereupon they de<g ref="char:EOLhyphen"/>manding of the people of the houſe to whom the Stable belonged, who brought them thither? who diſcribing him, dili<g ref="char:EOLhyphen"/>gent ſearch thereupon made, he about an hour or two after was apprehended, as he endeavoured to make his eſcape a back way: To this he pleaded, that ha<g ref="char:EOLhyphen"/>ving been at a Fair in <hi>Wiltſhire,</hi> and Ri<g ref="char:EOLhyphen"/>ding on his own Mare by the Grounds of <hi>Lidiot,</hi> the Gelding, Mare, and Colt, get<g ref="char:EOLhyphen"/>ing out of the incloſure followed him; but it appearing to be twenty Miles di<g ref="char:EOLhyphen"/>ſtance from the place where they firſt were, to the place where he had tyed them up, and that he had given the Inn<g ref="char:punc">▪</g>keeper charge of them; and over and a<g ref="char:EOLhyphen"/>bove, having no body to prove his Life and Converſation to be Honeſt, or by what means he ſubſiſted, he was found Guilty.</p>
+            <p>
+               <hi>Daniel Holderneſs,</hi> a Youth about four<g ref="char:EOLhyphen"/>teen Years of Age, Indicted for ſtealing between three and four Pounds in Mony from <hi>Mathew Grove</hi> of <hi>Ockingham</hi> in the County of <hi>Barks,</hi> on the 12th. of <hi>March</hi> laſt; upon whoſe Tryal it appeared, that the Proſecutor having been a Servant to <hi>William Grove,</hi> and received ten Pounds for Wages, left a part of it in his Trunk; (upon his going away from his Maſter) till he had a conveniency to ſend for it, during which time it was broken open, and the Priſoner living in the Nature of a ſervant with <hi>William Grove</hi> at the time it was broke open, and ſoon after run<g ref="char:EOLhyphen"/>ing away gave cauſe to ſuſpect him, and the rather by reaſon he was obſerved to have Monys, which they could not other<g ref="char:EOLhyphen"/>wiſe concieve how he came by it: It was further alledged he had made a kind of a confeſſion, but he denying it in Court, and pleading what he had ſaid was out of fear extorted from him by threats, and no poſſitive proof of the taking it appa<g ref="char:EOLhyphen"/>rent, he was acquitted.</p>
+            <p>
+               <hi>John Johns,</hi> and <hi>Richard Gunner</hi> joynt<g ref="char:EOLhyphen"/>ly Indicted for ſtealing one Dozen of Felt-Hats, to the Value of Forty Shillings from <hi>Edward Kidgel</hi> of the County of <hi>Berks</hi> on the 4th. of <hi>June</hi> laſt; upon whoſe Tryal, it appeared that the Pro<g ref="char:EOLhyphen"/>ſecutor ſending a Box of Hats to a <hi>Chap<g ref="char:EOLhyphen"/>man</hi> of his by a Waggon; the Number ſpecified, were upon the arrival of that Box miſſing, ſo that inquiries being made into the matter, a Barge-man in<g ref="char:EOLhyphen"/>formed Mr. <hi>Kidgel</hi> that he ſaw the for<g ref="char:EOLhyphen"/>mer of the Priſoners have a parcel of ſuch like Hats, upon which he was apprehend<g ref="char:EOLhyphen"/>ed who confeſſed his Companion, ſaying he took them out of the Box as the Wag<g ref="char:EOLhyphen"/>gon ſtood in the ſtreet, it being in the Night time and very dark, and that <hi>Gun<g ref="char:EOLhyphen"/>ner</hi> watched till he had effected it, and that ſeven of them were ſold at <hi>Maiden-head.</hi> This being ſworn to be the con<g ref="char:EOLhyphen"/>feſſion of <hi>Johns</hi> before the Juſtice; upon his firſt being Apprehended, he notwith<g ref="char:EOLhyphen"/>ſtanding, pleaded in the Court he found them, but that being looked upon as a frivelous pretence, he was found Guilty; but there being no other proof than what <hi>Johns</hi> had confeſſed againſt <hi>Gunner,</hi> he was acquited.</p>
+            <p>
+               <hi>William Stainy</hi> and <hi>Jſaack Stevens,</hi> Indicted for Robbing <hi>Alice Bowles,</hi> of <hi>Marlow</hi> in the County of <hi>Berks,</hi> of Rib<g ref="char:EOLhyphen"/>bon, Lace, Silks and other Goods, to the value of Thirty pounds, on the 25 of <hi>De<g ref="char:EOLhyphen"/>cember</hi> laſt: Upon the Tryal, <hi>Alice Bowles</hi> gave Evidence that ſhe coming over <hi>Maiden-head-Thicket,</hi> was ſet upon by two men, who violently threw her down and bound her Hands to one Tree and her Leggs to another and held a Piſt<g ref="char:EOLhyphen"/>ol to her to prevent her crying out, and then took away the Goods before-menti<g ref="char:EOLhyphen"/>on'd with divers others in a little Trunck which Trunck upon ſearch ſhe ſometime after found in <hi>Staney's</hi> Houſe, whom ſhe did affirm was one of the Parties that had Robed her, and left her bound where ſhe muſt have periſhed, had not People came luckely by, but as for <hi>Stevens</hi> ſhe was not poſitive. To this <hi>Stany</hi> pleaded th<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <pb n="3" facs="tcp:30163:2"/>he had the Trunk and divers goods men<g ref="char:EOLhyphen"/>tioned in the Indictment, but that he found them near one Mr. <hi>Winwoods</hi> houſe in his way to <hi>Colebrook,</hi> and that no Claim in a conſiderable time being layed to them, he ſold them: but the Jury not believing him in that point, and he having been otherwiſe ſuſpected, they found him Guilty of the Felony and Robery <hi>&amp;c.</hi> But there being no poſitive Proof againſt <hi>Stevens</hi> he was acquit<g ref="char:EOLhyphen"/>ted.</p>
+            <p>
+               <hi>Robert Carter,</hi> Indicted for Stealing 800 weight of Hay, and 6 Buſhels of Oats, from <hi>Henry Hubbert</hi> of <hi>Ockingham,</hi> in the County aforeſaid, on the 1ſt of <hi>June,</hi> upon the Tryal it appeared that <hi>Carter</hi> had taken the Hay and Oats off the Ground in Cocks in the day time, nor did he deny it in Court, but pleaded for himſelf, that the Ground whereon they ſtood he had a claim too, and payed Rent for it, having a Grant for a continued poſſeſſion, and that he gave notice before he took of the Goods mentioned, when in the end it appearing there had been former difference between the Priſoner and the Proſecutor, and that this proſe<g ref="char:EOLhyphen"/>cution proceeded from that Animoſſity it being thought rather a Treſſpaſs than a Felony; the Jury Acquitted <hi>Carter.</hi>
+            </p>
+            <p>
+               <hi>John Oſbourn</hi> of <hi>N<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>w-Windſor,</hi> Indict<g ref="char:EOLhyphen"/>ed for the murther of <hi>Edward Sprag,</hi> (of the ſame place) on the 25th. of <hi>July,</hi> by giving him a Wound under the right Pap, of which he inſtantly dyed; upon the Tryal of <hi>Oſbourn</hi> it appeared that <hi>Sprag</hi> coming out of a Victualling houſe where he had been to make Inquiry for company, found <hi>Oſbourn</hi> making Water againſt the Wall, who being a Soldier and having a Sword by his ſide, <hi>Sprag</hi> began to pull at it in a jeſting manner, which occaſioned them to Puſh each o<g ref="char:EOLhyphen"/>ther with their Hands: ſo that in the end a kind of a Scuffle paſſed between them, though moſt of the Spectators took it not to be in Earneſt, yet it ſo far Exaſperated <hi>Sprag</hi> that in ſome Rage he offered to Fight <hi>Oſbourn</hi> with one Hand, and thereupon threw his Head in his Face, which occaſioned them to cloſe; whereas <hi>Oſbourn</hi> bitt <hi>Spragg</hi> by the Fore<g ref="char:EOLhyphen"/>head, and finding opportunity to diſin<g ref="char:EOLhyphen"/>gage himſelf, retired a diſtance from him, but <hi>Sprag</hi> finding himſelf hurt made after him, who drawing his Sword held the point againſt him, biding him keep off, but whether he minded it not, or that <hi>Oſbourn</hi> puſhed; the Spectators could not well diſcern, but ſo it hap<g ref="char:EOLhyphen"/>pened that he received a mortal Wound, of which after ſome Scuffling with <hi>Oſbourn</hi> he dyed, though many Applications were made the Wound bleeding inward; to this <hi>Oſbourn</hi> plead<g ref="char:EOLhyphen"/>ed he had no Malice to the deceaſed, and was ſorry for what he had unhappily done, and that he began with him firſt, that as much as in him lay he ſhun'd and avoided him, knowing him to be too hard for him; that he bid him keep off, but he preſſing on run himſelf upon his ſword he not making any puſh at him, and in fine, no premeditated Malice appearing, the Jury found him Guilty of Manſlaugh<g ref="char:EOLhyphen"/>ter only.</p>
+            <p>
+               <hi>James Smith</hi> of <hi>Suning-Hill,</hi> in the County of <hi>Berks,</hi> tryed upon to ſeveral Indictments; the firſt for ſtealing a Horſe, value four Pound, on the 10th. of <hi>March</hi> laſt, from <hi>William Bartlet:</hi> The ſecond for ſtealing two Mares in <hi>April</hi> laſt from <hi>James Bennet;</hi> to both theſe Indictments he pleading not Guilty, up<g ref="char:EOLhyphen"/>on his Tryal it was proved againſt him, that the Horſe and Mares were found in the cuſtody of thoſe perſons to whom he had ſold them, and that upon their be<g ref="char:EOLhyphen"/>ing queſtioned they produced him as their Principal, he not denying but that they had ſo bought them; whereupon be<g ref="char:EOLhyphen"/>ing demanded by the Court how he came by them, he alledged that his Fa<g ref="char:EOLhyphen"/>ther dying left him them, and he being neceſſitated was fain to ſell them for rea<g ref="char:EOLhyphen"/>dy mony; but not being able to prove it or produce any honeſt perſon to give a good Character of him; he was found Guilty upon both Indictments.</p>
+            <p>
+               <hi>John Higs</hi> Indicted for ſtealing twen<g ref="char:EOLhyphen"/>ty Sheep valued at 13 <abbr>
+                  <hi>l.</hi>
+               </abbr> from one Mr. <hi>Harris</hi> of the County aforeſaid; upon the Tryal it appeared that the Sheep being loſt out of <hi>Harris</hi>'s Ground, and ſtrict in<g ref="char:EOLhyphen"/>quiry being made after them, they were found in the cuſtody of one <hi>Bagley,</hi> who being taxed with the Felony. alledged
+<pb n="4" facs="tcp:30163:3"/>that he bought them of <hi>Higs,</hi> and there<g ref="char:EOLhyphen"/>upon produced him who not being able to deny it, was ſent to Priſon, yet in Court endeavoured to excuſe it; but <hi>Bag<g ref="char:EOLhyphen"/>ley</hi> appearing againſt him, and being po<g ref="char:EOLhyphen"/>ſitive upon Oath that he bought them of the Priſoner, and he not being able to give any good account of himſelf, he was found Guilty.</p>
+            <p>
+               <hi>Richard North</hi> of <hi>Finchamſtead,</hi> In<g ref="char:EOLhyphen"/>dicted for taking three Shillings from <hi>John Bowyer,</hi> under pretence of being an Officer; which upon Tryal appeared thus, <hi>North</hi> meeting <hi>Bowyer</hi> upon the Road on the 20th. of <hi>January</hi> laſt, and ha<g ref="char:EOLhyphen"/>ving before underſtood he was in trou<g ref="char:EOLhyphen"/>ble and fearful of an Arreſt, pretending to be an Officer, told him he had a Writ againſt him laying hold on him at the ſame time; but told him withal, if he would give him any gratuitie he would wink at it and let him go; whereat <hi>Bowyer</hi> being terrified under the apprehenſions of an Impriſonment, gave him three Shillings, all the Mony he had about him, and ſo was diſmiſſed, but under<g ref="char:EOLhyphen"/>ſtanding afterwards that <hi>North</hi> was no Officer, but had cheated him of his Mo<g ref="char:EOLhyphen"/>ny, he brought this Indictment againſt him: Upon this Evidence, <hi>North</hi> who could ſay little for himſelf, was found Guilty of cheating <hi>Bowyer</hi> of the Mony ſpecified in the Indictment.</p>
+            <p>
+               <hi>Thomas Luggrave</hi> of <hi>Reading,</hi> being Indicted for uttering Seditious words, on the 27th. of <hi>June,</hi> in Favour of the late <hi>D.</hi> of <hi>Monmouth,</hi> and Rebels late in Arms, which were proved againſt him, and it appearing that he had been a Reſtleſs Factious Perſon he was found Guilty of the Miſdemeanour.</p>
+            <p>The Proceedings having been thus far, the Court proceeded to paſs Sentance on ſuch as were found Guilty as follow<g ref="char:EOLhyphen"/>eth.</p>
+            <p>Three Perſons Burnt in the Hand, having recieved their benefit of their Clergy <hi>viz.</hi>
+            </p>
+            <p>
+               <hi>John Johns,</hi> for ſtealing Twelve Hatts, <hi>John Higgs,</hi> for ſtealing Twenty Sheep, and <hi>John Osbourn,</hi> for Manſlaugh<g ref="char:EOLhyphen"/>ter.</p>
+            <p>Two to ſtand in the Pillory <hi>viz.</hi>
+            </p>
+            <p>
+               <hi>Richard North,</hi> to ſtand at <hi>Ockingham</hi> from the Hours of Twelve to Two, for Cheating <hi>John Bowyer: Thomas Lug<g ref="char:EOLhyphen"/>grave</hi> to ſtand at <hi>Reading,</hi> for the ſame ſpace of time, for ſpeaking Seditious words.</p>
+            <p>Three Received Sentence of Death <hi>viz.</hi>
+            </p>
+            <p>
+               <hi>John Gowin,</hi> for ſtealing a Gelding and a Colt, <hi>William Staney,</hi> for Robing <hi>Alice Bowls</hi> on the High-way, and <hi>James Smith</hi> for Horſe ſtealing.</p>
+            <p>And ſo ended this remarkable Aſſize, the Court riſeing on <hi>Tueſday</hi> about Nine in the Evening.</p>
+            <closer>
+               <dateline>This may be Printed, <date>
+                     <hi>Auguſt,</hi> the 1ſt. 1685.</date>
+               </dateline>
+               <signed>R. L. S.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London</hi> Printed by <hi>E. Mallet,</hi> in <hi>Black-Horſe-Alley</hi> near <hi>Fleet-Bridge,</hi> 1685.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
